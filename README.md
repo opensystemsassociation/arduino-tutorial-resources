@@ -14,10 +14,10 @@ Also taking advantage of the free hosting on [Github Pages](http://pages.github.
 
 To create a new page for a new tutorial you need to create a directory for your tutorial on the `master` branch then add the code and Fritzing images. After this you will need to `merge` the `master` branch into the `gh-pages` branch:
 
-     
+```bash
 $ git checkout gh-pages
 $ git merge master
-     
+```
 
 Once you've done this you will need to create a new file in the `_posts/` directory. The file name must start with the date (parts delimited by hyphen) and be followed by the name of the tutorial (which will determine the url of the page).
 
