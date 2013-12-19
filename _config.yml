@@ -2,5 +2,7 @@ name: Open Systems Association - Arduino Tutorial Resources
 markdown: redcarpet
 pygments: true
 baseurl: "/arduino-tutorial-resources"
+permalink: /:title
 githuburl: "http://gist-it.appspot.com/https://github.com/opensystemsassociation/arduino-tutorial-resources/blob/master/"
+
 
