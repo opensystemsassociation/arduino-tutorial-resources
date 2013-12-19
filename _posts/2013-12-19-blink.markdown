@@ -1,7 +1,6 @@
 ---
 layout: post-tutorial-assets
 title:  "Blink"
-categories: blink
 ---
 
 ![Blink Fritzing - Breadboard View]({{ site.baseurl}}/blink/blink.jpg "Blink Fritzing Diagram - Breadboard View")

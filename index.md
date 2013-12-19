@@ -7,7 +7,7 @@ title: Your New Jekyll Site
   <h1>Tutorials</h1>
   <ul class="posts">
     {% for post in site.posts order:descending%}
-      <li>&raquo; <a href="{{ post.url }}">{{ post.title }}</a></li>
+      <li>&raquo; <a href="{{ site.baseurl}}{{ post.url }}">{{ post.title }}</a></li>
     {% endfor %}
   </ul>
 </div>
