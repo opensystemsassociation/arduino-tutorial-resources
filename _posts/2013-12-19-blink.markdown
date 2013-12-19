@@ -5,5 +5,5 @@ title:  "Blink"
 
 ![Blink Fritzing - Breadboard View]({{ site.baseurl}}/blink/blink.jpg "Blink Fritzing Diagram - Breadboard View")
 
-<script src="http://gist-it.appspot.com/https://github.com/opensystemsassociation/arduino-tutorial-resources/blob/master/Blink/blink/blink.ino">
+<script src="{{ site.githuburl}}/blink/blink/blink.ino">
 </script>
