@@ -1,4 +1,5 @@
 name: Open Systems Association - Arduino Tutorial Resources
 markdown: redcarpet
 pygments: true
-relative_permalinks: false
+baseurl: "/arduino-tutorial-resources"
+
